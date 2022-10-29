@@ -6,12 +6,14 @@
 ## Lecture on algorithms with Python
 
 ---
+### 1주차
 
 - [1일차] (null)
 
 ## Python algorith
 
 ---
+### 1주차
 
 - [2022-10-26 알고리즘 문제풀이 (4문제)] (https://github.com/dailythm/dailythm-taesik/tree/main/1%EC%A3%BC%EC%B0%A8/2022-10-26)
 - [2022-10-27 알고리즘 문제풀이 (4문제)] (https://github.com/dailythm/dailythm-taesik/tree/main/1%EC%A3%BC%EC%B0%A8/2022-10-27)
