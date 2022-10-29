@@ -9,7 +9,7 @@
 
 ### 1주차
 
-- [1일차 2개 강의 듣기 및 정리] (https://github.com/dailythm/dailythm-taesik/blob/main/%EA%B0%95%EC%9D%98/1~2%EA%B0%95%EC%9D%98.md)
+- [1일차] (https://github.com/dailythm/dailythm-taesik/blob/main/%EA%B0%95%EC%9D%98/1~2%EA%B0%95%EC%9D%98.md)
 
 ## Python algorith
 
